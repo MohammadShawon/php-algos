@@ -1,0 +1,21 @@
+{
+    "name": "morshadunnur/php-algos",
+    "description": "Exercise datastructures and algorithm by PHP",
+    "type": "project",
+    "license": "MIT",
+    "keywords": [
+        "php", "algorithm", "data structure"
+    ],
+    "authors": [
+        {
+            "name": "Morshadun Nur",
+            "email": "morshadunnur@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
